@@ -1,1 +1,4 @@
-##network security project for phishing data
+#TO run the folder
+python main.py
+python app.py
+
